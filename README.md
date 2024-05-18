@@ -1,6 +1,6 @@
 # RESTful Api & NODE.JS & EXPRESS.JS
 
-Для початку роботи потребуэться встановити бібліотеку Express 
+Для початку роботи потребується встановити бібліотеку Express 
 
 npm i express
 
